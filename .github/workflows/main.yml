@@ -1,0 +1,32 @@
+name: YouTube Cookie Updater
+on:
+  schedule:
+    - cron: '0 * * * *' # প্রতি ঘণ্টায় চলবে
+  workflow_dispatch:   # ম্যানুয়ালি চালানোর অপশন
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install yt-dlp
+        run: pip install yt-dlp
+
+      - name: Run Script
+        run: python cookie_manager.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add cookies.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update cookies [skip ci]" && git push)
