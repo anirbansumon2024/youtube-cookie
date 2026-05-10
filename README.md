@@ -81,7 +81,7 @@ Enjoy 😊
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/monirul_Islam_SM)
 
 #### 👤 Project Maintainer
-**Monirul Islam**  
+**Anirban Sumon**  
 Maintained with ❤️ in Bangladesh 🇧🇩
 # knowledged SM
 ## Special Thanks <span style="font-size:45px;">👇</span>
