@@ -97,7 +97,7 @@ Maintained with ❤️ in Bangladesh 🇧🇩
 <a href="#">
   <img 
     title="Anirban Sumon"
-    src="https://img.shields.io/badge/SM%20Monirul%20Islam-purple?style=for-the-badge&logo=github"
+    src="https://img.shields.io/badge/Anirban-purple?style=for-the-badge&logo=github"
     alt="Anirban Sumon"
   >
 </a>
