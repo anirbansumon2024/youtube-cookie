@@ -62,7 +62,7 @@ Enjoy 😊
  
 # 🛡️ Credits
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=00000000&width=400&lines=Made+By+Monirul+Islam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=00000000&width=400&lines=Anirban+Sumon)](https://git.io/typing-svg)
 
 
 # 📝Note
@@ -96,9 +96,9 @@ Maintained with ❤️ in Bangladesh 🇧🇩
 
 <a href="#">
   <img 
-    title="SM Monirul Islam"
+    title="Anirban Sumon"
     src="https://img.shields.io/badge/SM%20Monirul%20Islam-purple?style=for-the-badge&logo=github"
-    alt="SM Monirul Islam"
+    alt="Anirban Sumon"
   >
 </a>
 
