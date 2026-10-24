@@ -1,7 +1,7 @@
 name: YouTube Cookie Updater
 on:
-  schedule:
-    - cron: '0 * * * *' # প্রতি ঘণ্টায় চলবে
+  #schedule:
+   # - cron: '0 * * * *' # প্রতি ঘণ্টায় চলবে
   workflow_dispatch:   # ম্যানুয়ালি চালানোর অপশন
 
 jobs:
